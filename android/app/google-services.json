@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "67460005584",
+    "project_id": "tricyfair",
+    "storage_bucket": "tricyfair.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:67460005584:android:ce2aebf35796d3c436e8d5",
+        "android_client_info": {
+          "package_name": "com.development.faircomputation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "67460005584-13c255hred50jrc5nl0keip9ljjvlpg2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTzMDA3IfyTswBq74XjveDTWSRNvcY55A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "67460005584-13c255hred50jrc5nl0keip9ljjvlpg2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
